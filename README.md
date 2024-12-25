@@ -1,6 +1,7 @@
 # rooms - initial commit
 
-Requirements:
+## TO DO: Implement these 
+# Requirements:
 
 1. User shall be able to see a list of all rooms
 2. User shall be able to create a room
